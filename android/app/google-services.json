@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829248244245",
+    "project_id": "mobotp-f8995",
+    "storage_bucket": "mobotp-f8995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829248244245:android:6fb542e37ca29258081c1c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829248244245-0ut7v6rjunb56kgjmn3fnranellq4kib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkZPIPrnRSHKacgwzemgR2tdVKH6U_A7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829248244245-0ut7v6rjunb56kgjmn3fnranellq4kib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
